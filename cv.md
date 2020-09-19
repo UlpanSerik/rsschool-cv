@@ -1,4 +1,4 @@
-# rsschool-cv
+
 > # Bagitzhanova Ulpan
 
 **Contact Info:** 
